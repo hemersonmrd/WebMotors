@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'capybara'
+gem 'cucumber', '4.1.0'
+gem 'selenium-webdriver'
+gem 'rspec'
+gem 'site_prism'
+gem 'cpf_faker'
+gem 'faker'
+gem 'report_builder'
+gem 'securerandom'
